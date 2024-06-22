@@ -1,6 +1,6 @@
 # Foreword
 
-Since june the 3rd, 2024, i am intending the Holberton school at Thonon-les-Bains, Haute-Savoie, France.
+Since june the 3rd, 2024, i am a student at the Holberton school at Thonon-les-Bains, Haute-Savoie, France.
 
 # 0-Day
 
